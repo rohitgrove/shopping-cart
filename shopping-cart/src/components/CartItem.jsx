@@ -1,4 +1,3 @@
-
 import {FcDeleteDatabase} from "react-icons/fc"
 import { useDispatch } from "react-redux";
 import { remove } from "../redux/Slices/CartSlice";
